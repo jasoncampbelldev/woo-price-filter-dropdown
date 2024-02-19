@@ -7,6 +7,8 @@ A shortcode can also be used to add the dropdown in a widget or in your theme.
 
 Shortcode: woo_price_filter_dropdown
 
+Plugin Folder: https://github.com/jasoncampbelldev/woo-price-filter-dropdown/tree/main/woo-price-filter-dropdown
+
 ## Admin
 ![Screenshot of plugin admin](https://github.com/jasoncampbelldev/woo-price-filter-dropdown/blob/main/woo-price-filter-dropdown-admin-screenshot.jpg?raw=true)
 
