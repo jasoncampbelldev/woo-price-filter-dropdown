@@ -15,6 +15,10 @@
  * Domain Path:       /languages
  */
 
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // Exit if accessed directly
+}
+
 function create_price_range_table() {
     // Create table to store price range settings
     global $wpdb;

@@ -1,5 +1,10 @@
 <?php
 
+if ( ! defined( 'ABSPATH' ) ) {
+    exit; // Exit if accessed directly
+}
+
+
 // add styling
 function include_styles() {
     if ( isset( $_GET['page'] ) && $_GET['page'] == 'woo-price-filter-dropdown-admin' ) {
